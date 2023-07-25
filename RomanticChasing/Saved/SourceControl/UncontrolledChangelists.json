@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Levels/Startup.umap",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Levels/Connecting.umap",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Widget/WB_Startup.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Core/Menu/GM_Menu.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Core/Menu/PC_Menu.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Widget/WB_LoadingScreen.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Core/Library/FL_RomanticFunctions.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Core/Menu/GM_Null.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Core/Menu/PC_Null.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Core/GI_RomanticInstance.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Widget/WB_Menu.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Widget/General/WB_LoadingScreen.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Widget/Menu/WB_Startup.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Widget/Menu/WB_Menu.uasset",
+				"C:/Users/USER/Documents/Unreal Projects/RomanticChasing/Content/RomanticChasing/Widget/General/Assets/WB_RomanticButton.uasset"
+			]
+		}
+	]
+}
